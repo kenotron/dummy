@@ -2,12 +2,6 @@
 
 # Test
 
-- Home
-- Services
-- Feature
-- Client
-- Pricing
-- Team
 - Contact
 
 <!-- -->
