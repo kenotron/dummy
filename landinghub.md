@@ -1,6 +1,6 @@
 ::: nav
 
-# Test Cool Ken!
+# Test
 
 - Home
 
