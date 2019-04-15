@@ -1,6 +1,6 @@
 ::: nav
 
-# Test Landing Hub
+# Test
 
 - Home
 - Services
