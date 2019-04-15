@@ -1,8 +1,8 @@
 ::: nav
 
-# Test
+# Test Cool Ken!
 
-- Contact
+- Home
 
 <!-- -->
 
