@@ -1,6 +1,6 @@
 ::: nav
 
-# Crash Test Dummy
+# Crash Test
 
 - Home
 - Not Home
