@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing penatibus et magnis dis Aene
 
 ---
 
-<signup fields="first,last,email">Get 30 days FREE Trial</signup>
+<lh-signup fields="first,last,email">Get 30 days FREE Trial</lh-signup>
 
 ::: | header |
 ::: | card card card |
