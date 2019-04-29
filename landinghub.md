@@ -1,6 +1,6 @@
 ::: nav
 
-# Heck ya!asdfadsfasdf
+# BOO!
 
 - Home
 - Not Home
