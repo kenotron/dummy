@@ -20,7 +20,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing penatibus et magnis dis Aene
 
 ---
 
-<lh-signup fields="first,last,email">Get 30 days FREE Trial</lh-signup>
+<lh-signup fields="first,last,email" formName="Boom">Get 30 days FREE Trial</lh-signup>
 
 ::: | header |
 ::: | card card card |
