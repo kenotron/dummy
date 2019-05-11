@@ -1,3 +1,7 @@
+---
+theme: theme1
+---
+
 ::: nav
 
 # BOO!
